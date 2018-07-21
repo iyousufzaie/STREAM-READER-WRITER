@@ -1,0 +1,15 @@
+E:\Iqra Notes\CS-3\VP\StreamReader_Writer\StreamReader_Writer\bin\Debug\StreamReader_Writer.exe.config
+E:\Iqra Notes\CS-3\VP\StreamReader_Writer\StreamReader_Writer\bin\Debug\StreamReader_Writer.exe
+E:\Iqra Notes\CS-3\VP\StreamReader_Writer\StreamReader_Writer\bin\Debug\StreamReader_Writer.pdb
+E:\Iqra Notes\CS-3\VP\StreamReader_Writer\StreamReader_Writer\obj\Debug\StreamReader_Writer.csprojResolveAssemblyReference.cache
+E:\Iqra Notes\CS-3\VP\StreamReader_Writer\StreamReader_Writer\obj\Debug\StreamReader_Writer.Form1.resources
+E:\Iqra Notes\CS-3\VP\StreamReader_Writer\StreamReader_Writer\obj\Debug\StreamReader_Writer.Form2.resources
+E:\Iqra Notes\CS-3\VP\StreamReader_Writer\StreamReader_Writer\obj\Debug\StreamReader_Writer.Form3.resources
+E:\Iqra Notes\CS-3\VP\StreamReader_Writer\StreamReader_Writer\obj\Debug\StreamReader_Writer.Properties.Resources.resources
+E:\Iqra Notes\CS-3\VP\StreamReader_Writer\StreamReader_Writer\obj\Debug\StreamReader_Writer.csproj.GenerateResource.Cache
+E:\Iqra Notes\CS-3\VP\StreamReader_Writer\StreamReader_Writer\obj\Debug\StreamReader_Writer.exe
+E:\Iqra Notes\CS-3\VP\StreamReader_Writer\StreamReader_Writer\obj\Debug\StreamReader_Writer.pdb
+E:\Iqra Notes\CS-3\VP\StreamReader_Writer\StreamReader_Writer\bin\Debug\StreamReader_Writer.exe.manifest
+E:\Iqra Notes\CS-3\VP\StreamReader_Writer\StreamReader_Writer\bin\Debug\StreamReader_Writer.application
+E:\Iqra Notes\CS-3\VP\StreamReader_Writer\StreamReader_Writer\obj\Debug\StreamReader_Writer.exe.manifest
+E:\Iqra Notes\CS-3\VP\StreamReader_Writer\StreamReader_Writer\obj\Debug\StreamReader_Writer.application
